@@ -2,6 +2,7 @@
 
 ## Objetivo
 
+
 Este exercício tem como objetivo consolidar conhecimentos sobre testes unitários. Ele está dividido em duas partes principais:
 
 ## Parte 1: Fazer todos os testes funcionarem
